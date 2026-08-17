@@ -1,7 +1,7 @@
 # Inteligência Artificial UMC 6ºA
 
 ## [Atividade: `Lista de Exercícios Python`](/Exerc%C3%ADcios_Python_Lucas_Tadashi_Aniya_6A_Matutino.ipynb)
-Entrega: <u>**14 de agosto de 2026**</u>
+Entrega: <u>**17 de agosto de 2026**</u>
 
 **Conteúdo:** *50 exercícios lógicos resolvidos e explicados para praticar a linguagem Python em preparação para desafios futuros na disciplina.*
 
@@ -26,5 +26,3 @@ Entrega: <u>**14 de agosto de 2026**</u>
 </details>
 
 ---
-  
-  
