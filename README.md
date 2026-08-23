@@ -29,7 +29,7 @@ Entrega: <u>**17 de agosto de 2026**</u>
 ## [Atividade: `Lista de Exercícios Data Science`](/Exercícios_Data_Science_Lucas_Tadashi_Aniya_6A_Matutino.ipynb)
 Entrega: <u>**23 de agosto de 2026**</u>
 
-**Conteúdo:** *60 exercícios lógicos resolvidos e explicados para praticar os conhecimentos técnicos nas bibliotecas Python: NumPy, SciPy, Pandas e Matplotlib, respectivamente.*
+**Conteúdo:** *60 exercícios lógicos resolvidos para praticar os conhecimentos técnicos nas bibliotecas Python: NumPy, SciPy, Pandas e Matplotlib, respectivamente.*
 
 <details>
   <summary>
