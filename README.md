@@ -25,4 +25,32 @@ Entrega: <u>**17 de agosto de 2026**</u>
   
 </details>
 
+
+## [Atividade: `Lista de Exercícios Data Science`](/Exercícios_Data_Science_Lucas_Tadashi_Aniya_6A_Matutino.ipynb)
+Entrega: <u>**23 de agosto de 2026**</u>
+
+**Conteúdo:** *60 exercícios lógicos resolvidos e explicados para praticar os conhecimentos técnicos nas bibliotecas Python: NumPy, SciPy, Pandas e Matplotlib, respectivamente.*
+
+<details>
+  <summary>
+  Objetivo
+
+  </summary>
+  
+  Esta atividade tem como objetivo consolidar os conhecimentos teóricos e práticos abordados no material de estudo sobre as principais bibliotecas de Data Science em Python: NumPy, SciPy, Pandas e Matplotlib. 
+
+  O desenvolvimento destas competências é essencial para a modelagem matemática, manipulação de estruturas tabulares, computação científica de alto desempenho e visualização avançada de dados aplicada à Inteligência Artificial.
+  
+</details>
+
+<details>
+  <summary>
+  Descrição da Tarefa
+
+  </summary>
+  
+  Seu desafio é completar os exercícios propostos no PDF utilizando o Google Colab como ambiente principal de desenvolvimento. É fundamental testar e validar os códigos-fonte de forma individual, estruturando o notebook de maneira clara e organizada.
+  
+</details>
+
 ---
