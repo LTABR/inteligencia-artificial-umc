@@ -142,14 +142,14 @@ Dataset obrigatório:
   
 </details>
 
-## [Atividade: `Salvando a Eleição Norte-Americana de 1936 com DataScience`](/Litery-Digest.ipynb)
+## [Atividade: `Salvando a Eleição Norte-Americana de 1936 com DataScience`](/Literary-Digest.ipynb)
 
 Entrega: <u>**27 de setembro de 2026**</u>
 
 **Conteúdo:** *Análise exploratória inicial e limpeza de dados (Python/Jupyter) e implementação do modelo de correção e análise dos resultados estaduais.*
 
 Dataset obrigatório:
-[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+[LitDigestFull.xlsx](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505#supplemental-material-section)
 
 <details>
   <summary>
