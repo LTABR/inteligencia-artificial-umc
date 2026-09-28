@@ -142,4 +142,34 @@ Dataset obrigatório:
   
 </details>
 
+## [Atividade: `Salvando a Eleição Norte-Americana de 1936 com DataScience`](/Litery-Digest.ipynb)
+
+Entrega: <u>**27 de setembro de 2026**</u>
+
+**Conteúdo:** *Análise exploratória inicial e limpeza de dados (Python/Jupyter) e implementação do modelo de correção e análise dos resultados estaduais.*
+
+Dataset obrigatório:
+[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+
+<details>
+  <summary>
+  🎯 Objetivo
+
+  </summary>
+  
+O objetivo deste hackathon é colocar os estudantes no papel de cientistas de dados forenses para investigar as
+causas do erro, limpar os dados históricos e aplicar modelos preditivos fundamentais utilizando **Pandas, NumPy e Scikit-Learn**.
+  
+</details>
+
+<details>
+  <summary>
+  📌 Descrição da Tarefa
+
+  </summary>
+  
+  Nessa atividade, vocês vão vestir o jaleco de cientistas de dados forenses para investigar esse clássico desastre estatístico. Utilizando Pandas, NumPy e Scikit-Learn básico, o desafio da equipe será limpar esses dados históricos, entender o porquê do viés de amostragem e construir um modelo simples de correção capaz de salvar a previsão.
+  
+</details>
+
 ---
