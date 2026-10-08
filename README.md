@@ -172,4 +172,33 @@ causas do erro, limpar os dados históricos e aplicar modelos preditivos fundame
   
 </details>
 
+## [Atividade: `Estudo de Caso: Preço do Vinho vs. Qualidade Cega - você paga pelo gosto?`](/estudo-de-caso-vinho-lucas-aniya-6a-manha.ipynb)
+
+Entrega: <u>**01 de outubro de 2026**</u>
+
+**Conteúdo:** *Análise exploratória inicial e limpeza de dados (Python/Jupyter) e implementação do modelo de correção e análise dos resultados estaduais.*
+
+Dataset obrigatório:
+[Wine Price vs. Blind Quality—Do You Pay for Taste?](https://www.kaggle.com/datasets/sergionefedov/wine-price-vs-blind-qualitydo-you-pay-for-taste)
+
+<details>
+  <summary>
+  🎯 Objetivo
+
+  </summary>
+  
+Este trabalho tem como objetivo analisar as **40.000** amostras de vinho com base em testes às cegas e videntes de críticos de diferentes níveis e regiões.
+  
+</details>
+
+<details>
+  <summary>
+  📌 Descrição da Tarefa
+
+  </summary>
+  
+  O vinho está em nossas mesas desde que o mundo é mundo, mas seu valor está necessariamente em seu preço? O dataset escolhido tem **40.000** vinhos, cada um com um preço de varejo, uma classificação de degustação às cegas (preço oculto) de painéis de especialistas e iniciantes, e uma avaliação para videntes (preço mostrado) a fim de responder a pergunta: Preço elevado é certeza de qualidade?
+  
+</details>
+
 ---
