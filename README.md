@@ -176,7 +176,7 @@ causas do erro, limpar os dados históricos e aplicar modelos preditivos fundame
 
 Entrega: <u>**01 de outubro de 2026**</u>
 
-**Conteúdo:** *Análise exploratória inicial e limpeza de dados (Python/Jupyter) e implementação do modelo de correção e análise dos resultados estaduais.*
+**Conteúdo:** *Análise exploratória inicial e limpeza de dados (Python/Jupyter), implementação do modelo de classificação de vinhos caros e validação cruzada de diferentes kernels SVM.*
 
 Dataset obrigatório:
 [Wine Price vs. Blind Quality—Do You Pay for Taste?](https://www.kaggle.com/datasets/sergionefedov/wine-price-vs-blind-qualitydo-you-pay-for-taste)
