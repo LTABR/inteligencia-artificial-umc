@@ -271,9 +271,9 @@ Entrega: <u>**12 de novembro de 2026**</u>
 
 Entrega: <u>**16 de novembro de 2026**</u>
 
-**Conteúdo:** *Nesta atividade, vamos explorar uma das principais técnicas de **Aprendizado de Máquina Não Supervisionado: o Clustering**, utilizando o algoritmo **K-Means**, a biblioteca **Scikit-learn** e o conjunto de dados Iris.
+**Conteúdo:** *Nesta atividade, vamos explorar uma das principais técnicas de **Aprendizado de Máquina Não Supervisionado: o Clustering**, utilizando o algoritmo **K-Means**, a biblioteca **Scikit-learn** e o conjunto de dados Iris.*
 
-O objetivo é compreender como algoritmos de Machine Learning conseguem identificar padrões e formar agrupamentos em conjuntos de dados **sem conhecer previamente as classes dos exemplos**.*
+*O objetivo é compreender como algoritmos de Machine Learning conseguem identificar padrões e formar agrupamentos em conjuntos de dados **sem conhecer previamente as classes dos exemplos**.*
 
 <details>
   <summary>
