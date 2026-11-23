@@ -245,7 +245,7 @@ Este trabalho tem como objetivo analisar e reaplicar todos os dataset anteriores
 
 Entrega: <u>**12 de novembro de 2026**</u>
 
-**Conteúdo:** *Aplicação e comparação dos modelos AutoML: **FLAML** e **Auto-Sklearn** no dataser Iris.*
+**Conteúdo:** *Aplicação e comparação dos modelos AutoML: **FLAML** e **Auto-Sklearn** no dataset Iris.*
 
 <details>
   <summary>
