@@ -201,4 +201,134 @@ Este trabalho tem como objetivo analisar as **40.000** amostras de vinho com bas
   
 </details>
 
+## [Atividade: `Exercicio Árvore de Decisão, Floresta Aleatória e Boosting`](/exercicio_arvore_decisao_lucas_aniya_6a_manha.ipynb)
+
+Entrega: <u>**03 de novembro de 2026**</u>
+
+**Conteúdo:** *Implementação dos modelos de classificação de Árvore de Decisão (Decision Tree), Floresta Aleatória (Random Forest) e Boosting (XGBoost).*
+
+Datasets obrigatórios:
+
+[Wine Price vs. Blind Quality—Do You Pay for Taste?](https://www.kaggle.com/datasets/sergionefedov/wine-price-vs-blind-qualitydo-you-pay-for-taste)
+
+[LitDigestFull.xlsx](https://www.tandfonline.com/doi/full/10.1080/26939169.2024.2395505#supplemental-material-section)
+
+[Breast Cancer Wisconsin (Diagnostic) Data Set](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+
+[🐟 FISHMORPH Dataset](https://www.kaggle.com/datasets/menegidio/fishmorph-dataset)
+
+[Heart Disease Prediction Dataset](https://www.kaggle.com/datasets/mfarhaannazirkhan/heart-dataset)
+
+[Student Stress Factors: A Comprehensive Analysis](https://www.kaggle.com/datasets/rxnach/student-stress-factors-a-comprehensive-analysis)
+
+<details>
+  <summary>
+  🎯 Objetivo
+
+  </summary>
+  
+Este trabalho tem como objetivo analisar e reaplicar todos os dataset anteriores com classificadores diferentes do SVM, sendo eles `DecisionTreeClassifier`, `RandomForestClassifier` e `XGBClassifier`.
+  
+</details>
+
+<details>
+  <summary>
+  📌 Descrição da Tarefa
+
+  </summary>
+  
+  Em um único notebook, aplicar todas as atividades e datasets aprendidos anteriormente (com exceção do dataset Iris) com os novos estimadores estudados, incluindo também os estimadores SVM anteriores.
+  
+</details>
+
+## [Atividade: `📊 Atividade Prática — Machine Learning: Clustering com K-Means`](/KMeans_Iris_Aula_Guiada_Completa_Colab.ipynb)
+
+Entrega: <u>**16 de novembro de 2026**</u>
+
+**Conteúdo:** *Nesta atividade, vamos explorar uma das principais técnicas de **Aprendizado de Máquina Não Supervisionado: o Clustering**, utilizando o algoritmo **K-Means**, a biblioteca **Scikit-learn** e o conjunto de dados Iris.
+
+O objetivo é compreender como algoritmos de Machine Learning conseguem identificar padrões e formar agrupamentos em conjuntos de dados **sem conhecer previamente as classes dos exemplos**.*
+
+<details>
+  <summary>
+  🎯 Objetivo
+
+  </summary>
+  
+- Compreender os fundamentos do aprendizado não supervisionado.
+
+- Entender o funcionamento do algoritmo K-Means.
+
+- Explorar e visualizar dados utilizando Python.
+
+- Aplicar técnicas de padronização e agrupamento.
+
+- Investigar o número ideal de clusters utilizando o método do cotovelo e o Silhouette Score.
+
+- Avaliar e interpretar criticamente os resultados obtidos.
+  
+</details>
+
+<details>
+  <summary>
+  📌 Descrição da Tarefa
+
+  </summary>
+
+  O objetivo não é apenas executar códigos e obter resultados, mas **compreender o comportamento do algoritmo e interpretar os agrupamentos encontrados.**
+
+  Lembrem-se: encontrar três clusters não significa necessariamente identificar corretamente as três espécies de Iris!
+
+  **Bons estudos e boa atividade! 🚀**
+  
+</details>
+
+## [Atividade: `📈 Atividade Prática — Machine Learning: Regressão com Scikit-learn`](/Regressao_ScikitLearn_Diabetes_Aula_Guiada_Colab.ipynb)
+
+Entrega: <u>**20 de novembro de 2026**</u>
+
+**Conteúdo:** *Nesta atividade, vamos explorar uma das principais aplicações do **Aprendizado de Máquina Supervisionado: a Regressão**, utilizando Python, a biblioteca **Scikit-learn** e o conjunto de dados biomédicos **Diabetes**.
+
+O objetivo é compreender como algoritmos de Machine Learning podem identificar relações entre variáveis e construir modelos capazes de **prever valores numéricos contínuos a partir de dados conhecidos**.*
+
+<details>
+  <summary>
+  🎯 Objetivo
+
+  </summary>
+  
+- Compreender os fundamentos da regressão e do aprendizado supervisionado.
+
+- Diferenciar regressão linear simples e múltipla.
+
+- Entender o funcionamento do método dos mínimos quadrados.
+
+- Preparar os dados e realizar a divisão entre treinamento e teste.
+
+- Construir e avaliar modelos de regressão utilizando Scikit-learn.
+
+- Interpretar métricas como MAE, MSE, RMSE e R².
+
+- Investigar problemas de overfitting e underfitting.
+
+- Comparar diferentes abordagens, incluindo regressão linear, polinomial, Ridge e Lasso.
+
+- Analisar criticamente os resultados e as limitações dos modelos.
+  
+</details>
+
+<details>
+  <summary>
+  📌 Descrição da Tarefa
+
+  </summary>
+
+  O objetivo da atividade não é apenas executar códigos ou encontrar o modelo com o maior R², mas **compreender como os modelos de regressão funcionam, avaliar sua capacidade preditiva e interpretar seus resultados de maneira crítica e científica.**
+
+  Lembrem-se: **um modelo que apresenta bons resultados nos dados de treinamento não necessariamente terá bom desempenho em dados novos!**
+
+  **Bons estudos e boa atividade! 🚀**
+  
+</details>
+
 ---
