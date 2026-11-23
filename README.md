@@ -313,9 +313,9 @@ Entrega: <u>**16 de novembro de 2026**</u>
 
 Entrega: <u>**20 de novembro de 2026**</u>
 
-**Conteúdo:** *Nesta atividade, vamos explorar uma das principais aplicações do **Aprendizado de Máquina Supervisionado: a Regressão**, utilizando Python, a biblioteca **Scikit-learn** e o conjunto de dados biomédicos **Diabetes**.
+**Conteúdo:** *Nesta atividade, vamos explorar uma das principais aplicações do **Aprendizado de Máquina Supervisionado: a Regressão**, utilizando Python, a biblioteca **Scikit-learn** e o conjunto de dados biomédicos **Diabetes**.*
 
-O objetivo é compreender como algoritmos de Machine Learning podem identificar relações entre variáveis e construir modelos capazes de **prever valores numéricos contínuos a partir de dados conhecidos**.*
+*O objetivo é compreender como algoritmos de Machine Learning podem identificar relações entre variáveis e construir modelos capazes de **prever valores numéricos contínuos a partir de dados conhecidos**.*
 
 <details>
   <summary>
