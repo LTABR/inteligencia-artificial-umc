@@ -241,6 +241,32 @@ Este trabalho tem como objetivo analisar e reaplicar todos os dataset anteriores
   
 </details>
 
+## [Atividade: `Comparação de AutoML (FLAML vs. Auto-Sklearn) com o Dataset Iris`](/FLAML_vs_Auto_Sklearn.ipynb)
+
+Entrega: <u>**12 de novembro de 2026**</u>
+
+**Conteúdo:** *Aplicação e comparação dos modelos AutoML: **FLAML** e **Auto-Sklearn** no dataser Iris.*
+
+<details>
+  <summary>
+  🎯 Objetivo
+
+  </summary>
+  
+  Praticar a utilização de ferramentas de Automated Machine Learning (AutoML) comparando o desempenho, o tempo de execução e a complexidade de busca de modelos entre o FLAML e o auto-sklearn utilizando o conjunto de dados clássico Iris.
+  
+</details>
+
+<details>
+  <summary>
+  📌 Descrição da Tarefa
+
+  </summary>
+
+  A finalidade da atividade foi praticar a utilização de ferramentas de Automated Machine Learning (AutoML) comparando o desempenho, o tempo de execução e a complexidade de busca de modelos entre o FLAML e o auto-sklearn utilizando o conjunto de dados clássico Iris.
+  
+</details>
+
 ## [Atividade: `📊 Atividade Prática — Machine Learning: Clustering com K-Means`](/KMeans_Iris_Aula_Guiada_Completa_Colab.ipynb)
 
 Entrega: <u>**16 de novembro de 2026**</u>
